@@ -3,6 +3,8 @@
 
 * [Allspaw, J. (2015) Trade-Offs Under Pressure: Heuristics and Observations Of Teams Resolving Internet Service Outages](https://www.researchgate.net/publication/295011072_Trade-Offs_Under_Pressure_Heuristics_and_Observations_Of_Teams_Resolving_Internet_Service_Outages)
 
+* [Allspaw, J., Cook, R.I., (2018) SRE Cognitive Work](https://www.oreilly.com/library/view/seeking-sre/9781491978856/ch28.html)
+
 * [Bainbridge, L. (1983) Ironies of Automation](https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf)
 
 * [Grayson, M. (2019) Approaching Overload: Diagnosis and Response to Anomalies in Complex and Automated Production Software Systems](https://www.researchgate.net/publication/333091997_Approaching_Overload_Diagnosis_and_Response_to_Anomalies_in_Complex_and_Automated_Production_Software_Systems)
