@@ -1,6 +1,7 @@
 # MonitoramaPDX2019
 
 The slides for this talk are on [Speakerdeck](https://speakerdeck.com/jallspaw/taking-human-performance-seriously)
+The video of the talk are on [Vimeo](https://vimeo.com/341144396)
 
 Here are the primary references and sources for my talk:
 
