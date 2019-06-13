@@ -1,5 +1,7 @@
 # MonitoramaPDX2019
 
+The slides for this talk are on [Speakerdeck](https://speakerdeck.com/jallspaw/taking-human-performance-seriously)
+
 Here are the primary references and sources for my talk:
 
 * [Allspaw, J. (2015) Trade-Offs Under Pressure: Heuristics and Observations Of Teams Resolving Internet Service Outages](https://www.researchgate.net/publication/295011072_Trade-Offs_Under_Pressure_Heuristics_and_Observations_Of_Teams_Resolving_Internet_Service_Outages)
